@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asignacion4_calculadora_IMC</string>
+    <string name="calcular">Calcular</string>
+    <string name="usericon">UserIcon</string>
+    <string name="peso">Peso</string>
+    <string name="estatura">Estatura</string>
+</resources>
